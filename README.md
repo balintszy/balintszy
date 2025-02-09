@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @balintszy
-- 👀 I’m interested in modern desk setups
-- 🌱 I’m currently learning CCNA & Python
 - 💞️ I’m looking to collaborate on Python and Network automation
 - 📫 How to reach me on twitter
 
